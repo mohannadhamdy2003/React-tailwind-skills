@@ -7,7 +7,7 @@ import {GradientLight} from "./design/Benefits"
 import ClipPath from "../assets/svg/ClipPath"
 const Benefits = () => {
   return (
-    <Section id="Features">
+    <Section id="features">
       <div className="container relative z-2">
         <Heading
           className="md:max-w-md lg:max-w-2xl"
