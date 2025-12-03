@@ -140,12 +140,11 @@ You gain full control over the design system instead of depending on defaults.
 
 ## 📸 **Screenshots**
 
-Example:
+### 🟦 Header Section
+<img src="./screenshots/header.png" width="800" />
 
-```
-![Header](screenshots/header.png)
-![Pricing](screenshots/pricing.png)
-```
+### 🟩 Pricing Section
+<img src="./screenshots/pricing.png" width="800" />
 
 ---
 
